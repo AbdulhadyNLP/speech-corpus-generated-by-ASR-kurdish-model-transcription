@@ -1,0 +1,1 @@
+# speech-corpus-generated-by-ASR-kurdish-model-transcription
