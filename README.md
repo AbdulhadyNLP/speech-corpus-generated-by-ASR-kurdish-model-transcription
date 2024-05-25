@@ -26,4 +26,4 @@ To download the ASOSoft Kurdish Speech Corpus, please follow the steps below:
 This corpus can be used for training and evaluating Kurdish ASR models. Please ensure to cite this resource if you use it in your research or applications.
 
 ## Citation
-If you use the ASOSoft Kurdish Speech Corpus in your research, please cite it as follows:
+If you use the AsoSoft Kurdish Speech Corpus in your research, please cite it as follows:
